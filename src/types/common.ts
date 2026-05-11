@@ -15,8 +15,7 @@ export type LinkResponse = {
   href: string;
   rel: string;
   method: string;
-
-}
+};
 
 export type SelectItem = {
   label: string;
