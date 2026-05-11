@@ -1,5 +1,5 @@
 # Overview
-The button called z-select is a customize html select component
+The button called z-select is a custom HTML select component
 
 ### Task
 - create a select provider that handles the value and onchange value
