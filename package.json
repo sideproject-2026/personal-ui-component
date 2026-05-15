@@ -1,7 +1,10 @@
 {
-  "name": "ui-components",
-  "version": "0.1.0",
+  "name": "@zee-dev/ui-components",
+  "version": "1.0.1",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "dist"
   ],

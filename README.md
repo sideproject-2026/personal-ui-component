@@ -22,15 +22,15 @@ Reusable React components packaged in Vite library mode for use across multiple 
 ## Install
 
 ```bash
-npm install ui-components react react-dom react-hook-form @tanstack/react-table
+npm install @zee-dev/ui-components react react-dom react-hook-form @tanstack/react-table
 ```
 
 ## Usage
 
 ```tsx
 import { createColumnHelper } from '@tanstack/react-table'
-import { DataTable } from 'ui-components'
-import 'ui-components/styles.css'
+import { DataTable } from '@zee-dev/ui-components'
+import '@zee-dev/ui-components/styles.css'
 
 type User = {
   id: string
